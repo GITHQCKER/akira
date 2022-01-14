@@ -24,7 +24,7 @@ Click the deploy icon below !
 > git clone https://github.com/Akirachan99/akira.git
 > cd akira
 > npm install
-> node haruka.js
+> node akira.js
 ```
 
 ## settings
