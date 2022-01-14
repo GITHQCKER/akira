@@ -1,0 +1,11 @@
+{
+	"ownername":"AkiraYT",
+	"ownernumber":"6281327327914",
+	"botname":"Akira-Bot",
+	"thumbnail":"./settings/akira.jpg",
+	"limit": {
+		"free":20,
+		"premium":1000
+	},
+	"session_name":"./session.json"
+}
